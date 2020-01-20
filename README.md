@@ -6,4 +6,6 @@ change in readme from dev file
 Further change 
 Checking pull request for dev
 
+Added Richa in for file.
+
 
