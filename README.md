@@ -1,2 +1,3 @@
-# training2020repo
+#Project Name: training2020repo
+## This is for training purpose
 Training Repository
