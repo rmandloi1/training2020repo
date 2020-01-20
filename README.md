@@ -3,8 +3,7 @@
 Training Repository
 dev
 change in readme from dev file
-Further change
+Further change 
+Checking pull request for dev
 
-change in readme
-change in dev branch 
-master
+
